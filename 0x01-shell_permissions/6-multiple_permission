@@ -1,2 +1,0 @@
-#!/bin/bash
-cmod u+x,g+x,o+r hello
